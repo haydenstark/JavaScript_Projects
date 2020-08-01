@@ -10,3 +10,4 @@ function secondFunction() {
     sent += " A SENTENCE.";
     document.getElementById("string").innerHTML = sent;
 }
+
