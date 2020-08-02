@@ -9,4 +9,5 @@ function wordAssociation() {
     };
     delete feeling.Grey;
     document.getElementById("Dictionary").innerHTML= feeling.Grey;
+    document.getElementById("Dictionary2").innerHTML= feeling.Yellow;
 }
